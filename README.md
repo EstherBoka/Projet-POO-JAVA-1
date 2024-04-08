@@ -127,3 +127,22 @@ IA Dark Vador
  être fournie dans le fichier README pour expliquer son fonctionnement.
  
 [PROJET_POO.pdf](https://github.com/GemimaOndele/Projet-POO-JAVA/files/14280382/PROJET_POO.pdf)
+
+
+
+Nouvelle Fonctionnalité : Blocage et Déblocage des Colonnes
+
+Pour bloquer une colonne pendant le jeu, les joueurs peuvent désormais utiliser les options disponibles dans l'interface graphique. Une colonne bloquée ne pourra pas être utilisée pour placer des jetons tant qu'elle n'est pas débloquée.
+
+Pour bloquer une colonne :
+1. Cliquez sur la colonne que vous souhaitez bloquer.
+2. Sélectionnez l'option "Bloquer colonne" dans le menu.
+
+Pour débloquer une colonne :
+1. Cliquez sur la colonne déjà bloquée.
+2. Sélectionnez l'option "Débloquer colonne" dans le menu.
+
+Le GameManager a été mis à jour pour gérer les colonnes bloquées, et les règles du jeu ont été ajustées en conséquence. Profitez de cette nouvelle dimension stratégique ajoutée au jeu !
+
+Bonne partie !
+
